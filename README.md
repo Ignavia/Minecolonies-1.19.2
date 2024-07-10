@@ -11,9 +11,9 @@ Alternatively you can create a custom modpack and put the mods from this pack in
 3: Close Minecraft then go to the .minecraft/versions/{custom modpack name}/mods
 4: Paste the mods from this pack to the mods folder directory
 
-### Mod List
+## Mod List
 
-## Major
+### Major
 1. Minecolonies
     1. Block UI
     2. Domum Ornamentum
@@ -23,7 +23,7 @@ Alternatively you can create a custom modpack and put the mods from this pack in
     1. TerraBlender
 3. When Dungeons Arise (LARGE MOD)
 
-## Minor
+### Minor
 1. Epic Knights [Armor and Weapons]
     1. Cloth Config
 2. Better Weaponry
@@ -52,7 +52,7 @@ Alternatively you can create a custom modpack and put the mods from this pack in
 18. Corpse
 19. Paraglider
 
-## Utilities and Misc
+### Utilities and Misc
 1. Clump [Performance]
 2. Controlling [Settings]
     1. Searchables
@@ -68,7 +68,7 @@ Alternatively you can create a custom modpack and put the mods from this pack in
     1. Silent Lib
 10. Camera
 
-## Performance
+### Performance
 1. FastWorkBench [Server/Client]
     1. Placebo
 2. FastFurnace [Server/Client]
