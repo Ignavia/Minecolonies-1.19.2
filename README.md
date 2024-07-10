@@ -1,4 +1,4 @@
-# Minecolonies-1.19.2
+# Minecolonies++ for MC 1.19.2
 Personal Custom MC 1.19.2 Modpack
 
 Use TLAuncher to Download Forge 1.19.2 (NOT FORGEOPTIFINE!!!)
