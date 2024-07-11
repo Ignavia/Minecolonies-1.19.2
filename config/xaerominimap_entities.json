@@ -22,8 +22,8 @@
     "dotSize": 2.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
-    "names": 0.0,
     "heightLimit": 20.0,
+    "names": 0.0,
     "iconScale": 1.0
   },
   "subCategories": [
@@ -146,6 +146,36 @@
           "settingOverrides": {},
           "subCategories": [
             {
+              "hardInclude": "nothing",
+              "includeList": [
+                "minecolonies:citizen"
+              ],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "Colonists",
+              "protection": false,
+              "settingOverrides": {
+                "color": 11.0
+              },
+              "subCategories": []
+            },
+            {
+              "hardInclude": "nothing",
+              "includeList": [
+                "minecraft:villager"
+              ],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "Villagers",
+              "protection": false,
+              "settingOverrides": {
+                "color": 10.0
+              },
+              "subCategories": []
+            },
+            {
               "hardInclude": "tamed",
               "includeList": [],
               "includeListInSuperCategory": true,
@@ -172,7 +202,7 @@
       "protection": true,
       "settingOverrides": {
         "renderOrder": 1.0,
-        "color": 12.0
+        "color": 13.0
       },
       "subCategories": []
     },

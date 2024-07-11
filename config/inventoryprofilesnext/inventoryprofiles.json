@@ -1,0 +1,27 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 0,
+        "auto_refill_match_any_food": true,
+        "type_visual_durability_notification": "CHAT",
+        "number_of_notifications": 2,
+        "type_visual_replace_success_notification": "CHAT",
+        "visual_replace_failed_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        },
+        "type_visual_replace_failed_notification": "CHAT"
+    },
+    "Tweaks": {
+        "prevent_close_gui_drop_item": {
+            "value": true
+        }
+    }
+}
