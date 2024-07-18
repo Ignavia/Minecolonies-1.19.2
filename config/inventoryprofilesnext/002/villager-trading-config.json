@@ -13,10 +13,6 @@
         "fisherman": [
         ],
         "fletcher": [
-            {
-                "resultItem": "minecraft:emerald",
-                "priceItem1": "minecraft:stick"
-            }
         ],
         "leatherworker": [
         ],
@@ -33,10 +29,6 @@
         "nitwit": [
         ],
         "none": [
-        ],
-        "scribe": [
-        ],
-        "___+++___ wandering ___+++___": [
         ]
     },
     "globalBookmarks1": {
@@ -69,10 +61,6 @@
         "nitwit": [
         ],
         "none": [
-        ],
-        "scribe": [
-        ],
-        "___+++___ wandering ___+++___": [
         ]
     },
     "globalBookmarks2": {
@@ -105,10 +93,6 @@
         "nitwit": [
         ],
         "none": [
-        ],
-        "scribe": [
-        ],
-        "___+++___ wandering ___+++___": [
         ]
     }
 }
