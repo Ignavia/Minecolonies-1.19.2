@@ -1,5 +1,11 @@
 # Minecolonies++ for MC 1.19.2
 Personal MC 1.19.2 Custom Modpack
+## Starter Tips / Notes
+* The Modpack is centered around the minecolonies mod to help players create their own space in the world. Here is the Minecolonies **GET STARTED GUIDE:** https://minecolonies.com/wiki/tutorials/getting-started
+* There are Utility Mods that add functions like Inventory Sorting, Smooth Inventory Transfers (Shift then Hold Right-Click and drag), and JEI (recipes at the right-side of the screen when you open the Inventory)
+  * JEI lets you see the recipe of the selected item (left-click) and also items that can be crafted from the selected item (right-click for things to be crafted)
+* There are also Quality of Life (QoL) mods like backpacks, farmer's delight knife that ensures mob drops their secondary drop like leather from cows, and making saddles and leash craftable.
+
 ## USING MC LAUNCHERS
 1: Donwload Forge 1.19.2 ver. 43.4.0
 
